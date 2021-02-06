@@ -3,7 +3,6 @@ aiodns==2.0.0
 aiogram==2.11.2
 aiohttp==3.7.3
 alabaster==0.7.12
-anaconda-client==1.7.2
 anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 appdirs==1.4.4

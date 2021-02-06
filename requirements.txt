@@ -1,6 +1,6 @@
 aiogram==2.11.2
-torch==1.7.1+cpu
-torchvision==0.8.2+cpu
+torch==1.7.1
+torchvision==0.8.2
 torchaudio===0.7.2
 matplotlib==3.3.2
 Pillow==7.1.2

@@ -1,1 +1,1 @@
-worker: python3 bot.py, style_transfer.py
+worker: python bot.py

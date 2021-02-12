@@ -161,7 +161,7 @@ class style_transfer_class():
                                                                               self.normalization_mean,
                                                                               self.normalization_std,
                                                                               self.style_img, self.content_img)
-        num_steps = 200
+        num_steps = 100
         style_weight = 100000
         content_weight = 1
         input_img = self.content_img.clone()
